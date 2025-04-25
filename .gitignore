@@ -1,0 +1,31 @@
+# Compiled Arduino files
+*.elf
+*.hex
+*.eep
+*.bin
+*.lss
+*.sym
+*.tmp
+*.o
+*.d
+*.lst
+*.su
+*.cpp
+
+# Arduino IDE
+*.ino.local
+*.ino.with_bootloader.*
+*.preproc
+*.map
+*.csv
+*.tsv
+
+# IDE folders (VSCode, CLion, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS junk files (Mac/Windows)
+.DS_Store
+Thumbs.db
